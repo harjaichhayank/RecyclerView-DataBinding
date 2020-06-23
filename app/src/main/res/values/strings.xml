@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">RecyclerView+DataBinding</string>
+    <string name="title">Title</string>
+    <string name="rating">Rating</string>
+
+    <string-array name="Top_10_movies">
+        <item>Parasite</item>
+        <item>Avengers:EndGame</item>
+        <item>Us(2019)</item>
+        <item>Knives Out</item>
+        <item>Toy Story 4</item>
+        <item>The Irishman</item>
+        <item>Little Woman</item>
+        <item>BookSmart</item>
+        <item>The Farewell</item>
+        <item>Marriage Story</item>
+        <item>Split</item>
+        <item>MoonNight</item>
+        <item>Inception</item>
+        <item>127 Hours</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Lo And Behold</item>
+        <item>Cold Souls</item>
+        <item>The Assassin</item>
+        <item>First Man</item>
+        <item>The Silence Of The Lambs</item>
+        <item>The Dark Knight</item>
+    </string-array>
+
+    <string-array name="Movie_ratings">
+        <item>99%</item>
+        <item>94%</item>
+        <item>93%</item>
+        <item>97%</item>
+        <item>97%</item>
+        <item>96%</item>
+        <item>95%</item>
+        <item>97%</item>
+        <item>98%</item>
+        <item>95%</item>
+
+        <item>99%</item>
+        <item>94%</item>
+        <item>93%</item>
+        <item>97%</item>
+        <item>97%</item>
+        <item>96%</item>
+        <item>95%</item>
+        <item>97%</item>
+        <item>98%</item>
+        <item>95%</item>
+        <item>95%</item>
+    </string-array>
+</resources>
